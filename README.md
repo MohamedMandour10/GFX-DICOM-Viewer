@@ -23,7 +23,11 @@ This project is a DICOM viewer with volume rendering capabilities, implemented u
 - The UI is designed using PyQt5, providing an intuitive and user-friendly environment.
 
 ## Demo
-<video src="Demo.mp4" controls title="DICOM Viewer Demo"></video>
+
+
+https://github.com/MohamedMandour10/GFX-DICOM-Viewer/assets/115044826/7f3e9a03-e435-4fa3-941c-2f98018bff4b
+
+
  
 ## How to Use
 
