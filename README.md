@@ -1,3 +1,7 @@
+<div align="center">
+    <img width="745" alt="DICOM Viewer" src="https://github.com/user-attachments/assets/27c74466-6d2a-4c2d-8bef-c29b020a3bb2">
+</div>
+
 # DICOM Viewer with Volume Rendering
 
 ## Overview
